@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 , h2 {
+  font-family: "copperplate";
+    color: whitesmoke;
+}
+
+input {
+  width: 100%;
+  box-sizing:border-box;
+}
+
+h3{
+  color: white;
+  display: inline-block;
+
+}
+
+p {
+    color: white;
+    width: 60%;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    margin-right: 0px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+
+
+  .navBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:silver;
+  }
+  
+  .navBar ul li {
+    float: left;
+  }
+  
+  .navBar ul li a {
+    display: block;
+    padding: 20px;
+    background-color:silver;
+    color: black;
+  }
+  .navBar ul li a:hover {
+    display: block;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    text-shadow: 2px 2px 5px rgb(161, 161, 161);
+  }
+
+  #navStyle{
+    font-family: "copperplate";
+    font-weight:600;
+    font-size: 20px;
+  }
+  
+
+  img {
+    height: 500px;
+    width: 350px;
+    float: right;
+  }
+
+  body li{
+    color: white;
+  }
+
+  h4{
+    color: white;
+    width: 60%;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    margin-right: 0px;
+    display: inline-block;
+
+  }
+
+  footer {
+    color: white;
+  }
